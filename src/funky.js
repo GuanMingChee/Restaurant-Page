@@ -15,7 +15,6 @@ function initialhomecontentdisplay(){
     <div class="title-heading">Location</div>
     <div id="addr">Address: 987 John Marr Ave, Wakaka, WA 12345</div>
     `;
-    console.log("Notice me")
 }
 
 function homedisplay(){
